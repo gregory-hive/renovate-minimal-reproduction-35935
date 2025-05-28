@@ -120,7 +120,7 @@
   "resolutions": {
     "formidable": "3.5.3",
     "@babel/traverse": "7.27.1",
-    "@babel/helpers": "7.27.1"
+    "@babel/helpers": "7.27.3"
   },
   "jest": {
     "globalSetup": "../test/globalSetup.ts",
